@@ -1,0 +1,24 @@
+camera_matrix:
+- - 2610.7459868139167
+  - 0.0
+  - 1849.6130696587215
+- - 0.0
+  - 2696.6470980548465
+  - 1418.005844851235
+- - 0.0
+  - 0.0
+  - 1.0
+checkerboard_inner_corners: !!python/tuple
+- 8
+- 6
+distortion_coefficients:
+- - 0.16900698214747228
+  - -0.09128185979795927
+  - -0.01258145077295145
+  - -0.02893902165609154
+  - 0.010323839971638483
+failed_images: 5
+reprojection_error_pixels: 1.4692212318426745
+square_size_mm: 25.0
+total_images: 34
+valid_images: 29
